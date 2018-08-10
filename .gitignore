@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+tmp/
+
+coma
+nameable
